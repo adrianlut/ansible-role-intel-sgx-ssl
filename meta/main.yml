@@ -17,5 +17,5 @@ galaxy_info:
 
 dependencies:
   - role: adrianlut.intel_sgx_psw
-  - role: melhindi.intel_sgx_sdk
+  - role: adrianlut.intel_sgx_sdk
   - role: melhindi.intel_sgx_as
